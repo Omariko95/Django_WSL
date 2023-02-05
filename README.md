@@ -1,2 +1,2 @@
 # Django_WSL
- Django via WSL ext.
+ Django(Celery/Flower/Redis)via WSL ext.
