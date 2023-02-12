@@ -1,2 +1,7 @@
 # Django_WSL
- Django(Celery/Flower/Redis)via WSL ext.
+ 
+ _Project Summary_  
+ 
+ Django(Celery/Flower/Redis)via WSL ext.  
+ 
+ Ubuntu remote WSL via Visual studio code..
